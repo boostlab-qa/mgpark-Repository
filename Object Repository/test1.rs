@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>test1</name>
+   <tag></tag>
+   <elementGuidId>8e0f5f93-978f-4286-a97c-12a7dd375ac2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id=&quot;repo-content-pjax-container&quot;]/div/div/div[3]/div[1]/div[2]/span/get-repo/details/summary</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id=&quot;repo-content-pjax-container&quot;]/div/div/div[3]/div[1]/div[2]/span/get-repo/details/summary</value>
+      <webElementGuid>ce63266a-05ff-49e4-857f-71b72538cc32</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

@@ -4,6 +4,16 @@
    <name>test1</name>
    <tag></tag>
    <elementGuidId>1f321264-c5f7-43d3-b7ec-bfb740510d11</elementGuidId>
-   <selectorMethod>BASIC</selectorMethod>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id=&quot;repo-content-turbo-frame&quot;]/div/div/div[3]/div[1]/aside/div/div[2]/div[1]</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
    <useRalativeImagePath>false</useRalativeImagePath>
 </WebElementEntity>
